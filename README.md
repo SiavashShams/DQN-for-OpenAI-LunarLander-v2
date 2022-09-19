@@ -8,7 +8,11 @@ DQN
 
 DDQN
 ---
----
+
 | 100 Iterations | 250 Iterations |
 |:--:|:--:|
 |![t100](/GIFs/DDQN100.gif)|![t250](/GIFs/DDQN250.gif)|  
+
+Average rewards for DQN vs DDQN
+---
+![This is an image](/Images/Picture1.png)
